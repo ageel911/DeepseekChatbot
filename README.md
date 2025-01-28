@@ -12,3 +12,8 @@ Installation:
 1. Simply place the index.html file on your PC, and run it on a local http server (you can use LiveServer in VSCODE)
 2. Browse to: http://127.0.0.1:5500/bot.html
 3. Make sure that no permissions are blocked to allow it to connect to the local ollama api.
+
+
+<img src="deepseekchatbot1.png">
+
+<img src="deepseekchatbot2.png">
