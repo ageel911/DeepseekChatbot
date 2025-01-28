@@ -10,9 +10,11 @@ Main features:
 
 Installation:
 1. Simply place the index.html file on your PC, and run it on a local http server (you can use LiveServer in VSCODE)
-2. Browse to: http://127.0.0.1:5500/index.html
-3. Make sure that no permissions are blocked to allow it to connect to the local ollama api.
+2. If required, change the model inside the html file, search for (model: "deepseek-r1:latest") and update it to the model of your choice if you have multiple models installed in your local machine. Else, leave it as is to use the latest deepseek-r1 model.
+3. Browse to: http://127.0.0.1:5500/index.html
+4. Make sure that no permissions are blocked to allow it to connect to the local ollama api.
 
+Tested with deepseek-r1:7b model
 
 <img src="deepseekchatbot1.png">
 
